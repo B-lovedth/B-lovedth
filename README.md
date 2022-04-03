@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @B-lovedth
 - 👀 I’m interested in technology 
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning FrontEnd web Development
 - 💞️ I’m looking to collaborate with several other developers 
 - 📫 How to reach me: Whatsapp (+234 8109882351)
 
