@@ -1,4 +1,5 @@
-👋 Hi, I’m Great(literally..like that's my name) 
+👋 Hi, I’m Great(literally..like that's my name) -
+
 I’m interested in the world of tech,
 i'm currently in the process of developing myself to be a softeare developer
 🌱 I’m currently learning FrontEnd web Development 
