@@ -27,6 +27,9 @@
 <h3>You can buy me a Coffee if you want🙃🙃</h3><a href="https://www.buymeacoffee.com/Belovedth0"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="210" alt="B-lovedth"></a> 
    
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=B-lovedth" alt="B-lovedth" /></a> </p>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=B-lovedth&show_icons=true&locale=en&layout=compact" alt="B-lovedth">   
+<img src="https://github-readme-stats.vercel.app/api?username=B-lovedth&show_icons=true&locale=en" alt="B-lovedth">   
 <!---
 B-lovedth/B-lovedth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
