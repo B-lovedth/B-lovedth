@@ -23,13 +23,13 @@
 <a href="java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="javascript" width="40" height="40"></a>   
 <a href=""><img src="https://cdn-icons.flaticon.com/png/128/3665/premium/3665923.png?token=exp=1649693995~hmac=06333068d3a164234fe1a94fa97ed0dc" alt="c" width="40" height="40"></a>
 <a href=""><img src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" alt="git" width="40" height="40"></a>
-
-<h3>You can buy me a Coffee if you want🙃🙃</h3><a href="https://www.buymeacoffee.com/Belovedth0"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="210" alt="B-lovedth"></a> 
    
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=B-lovedth" alt="B-lovedth" /></a> </p>
+<br> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=B-lovedth" alt="B-lovedth" /></a> 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=B-lovedth&show_icons=true&locale=en&layout=compact" alt="B-lovedth">   
 <img src="https://github-readme-stats.vercel.app/api?username=B-lovedth&show_icons=true&locale=en" alt="B-lovedth">   
+   
+ <h3>You can buy me a Coffee if you want🙃🙃</h3><a href="https://www.buymeacoffee.com/Belovedth0"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="210" alt="B-lovedth"></a>   
 <!---
 B-lovedth/B-lovedth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
