@@ -1,16 +1,18 @@
-<h1>👋 Hi, I’m Great</h1>
+<h1>👋 Hi there!, I’m Great</h1>
+
 
 - I'm a Student💻and I like Gadjets(¬‿¬)
-- -I love TECHNOLOGY
-- I'm currently in the process of developing myself to be a software developer<br>
--🌱 I’m currently learning FrontEnd web Development using ReactJS<a href="reactjs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="20" height="20"><a/><br>
--💞️ I’m looking forward to growing myself to the extent of developing programs,
-   Applications,Softwares that would make the world more convinient and solve alot of problems
+- I love TECHNOLOGY
+- I'm currently in the process of developing myself to be a software developer
+- 🌱I’m currently learning FrontEnd web Development using ReactJS<a href="reactjs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="20" height="20"><a/>
+- 💞️I’m looking forward to growing myself to the extent of developing programs,
+   Applications,Softwares that Would solve world class problems and also Collaborating with people of like mind
    
 <h2>You can Connect with me on:</h2>
    <a href="https://twitter.com/B_lovedth"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" width="40" height="40"></a>
    <a href="https://web.facebook.com/great.soma"><img src="https://cdn-icons-png.flaticon.com/512/124/124010.png" alt="facebook" width="40" height="40"></a>
-   <a href=""><img src=""></a>
+   <a href="https://www.linkedin.com/in/great-solomon-656397237/"><img src="https://cdn-icons-png.flaticon.com/128/174/174857.png" alt="LinkedIn" width="40" height="40"></a>
+   <a href="https://wa.me/+2348109882351"><img src="https://cdn-icons.flaticon.com/png/128/2504/premium/2504957.png?token=exp=1649705518~hmac=6d0a3fe98b76bd601ac0df5e7d78ec73" alt="Whatsapp" width="40" height="40"></a>
 <h2>Languages and tools used</h2>
    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> 
    <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"><a/>
