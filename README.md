@@ -2,7 +2,7 @@
 
 - I'm a Student💻and I like Gadjets(¬‿¬)
 - I love TECHNOLOGY
-- I'm currently in the process of developing myself to be a software developer
+- I'm currently developing myself to be a software engineer 
 - 🌱I’m currently learning FrontEnd web Development using ReactJS<a href="reactjs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="20" height="20"><a/>
 - 💞️I’m looking forward to growing myself to the extent of developing Programs, Applications,Softwares that Would solve world class problems and also Collaborating with people of like mind
 - Email: **greatsoma2019@gmail.com**
