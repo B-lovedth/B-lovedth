@@ -21,14 +21,14 @@
 <h2>I currently have at least,Basic knowledge of the following:</h2>
 <a href="python.org" ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"></a>  
 <a href="java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"></a>   
-<a href=""><img src="https://cdn-icons.flaticon.com/png/128/3103/premium/3103956.png?token=exp=1650235260~hmac=8f198ae30b176c64af8936d0fb25d727" alt="c" width="40" height="40"></a>
+<a href=""><img src="https://cdn-icons.flaticon.com/png/512/3585/premium/3585350.png?token=exp=1651229943~hmac=c4ccd8104060de43c2f2111df0b43377" alt="c" width="40" height="40"></a>
 <a href=""><img src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" alt="git" width="40" height="40"></a>
    
 <br> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=B-lovedth&theme=react&hide_border=true&bg_color=0D1117" alt="B-lovedth" /></a> 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=B-lovedth&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="B-lovedth">   
-<img src="https://github-readme-stats.vercel.app/api?username=B-lovedth&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="B-lovedth">   
-   
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=B-lovedth&show_icons=true&locale=en&layout=compact&theme=jolly&hide_border=true&bg_color=0D1117" alt="B-lovedth">   
+<img src="https://github-readme-stats.vercel.app/api?username=B-lovedth&hide=issues,contribs&show_icons=true&count_private=true&locale=en&theme=jolly&hide_border=true&bg_color=0D1117" alt="B-lovedth">   
+<!-- <img src="https://github-readme-stats.vercel.app/api/pin/?username=B-lovedth&repo=github-readme-stats">https://github.com/B-lovedth/github-readme-stats -->
  <h3>You can buy me a Coffee if you want🙃🙃</h3><a href="https://www.buymeacoffee.com/Belovedth0"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" height="40" width="210" alt="B-lovedth"></a>   
 <!---
 B-lovedth/B-lovedth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
