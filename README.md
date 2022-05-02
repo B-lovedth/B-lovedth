@@ -29,7 +29,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=B-lovedth&show_icons=true&locale=en&layout=compact&theme=jolly&hide_border=true&bg_color=0D1117" alt="B-lovedth">   
 <img src="https://github-readme-stats.vercel.app/api?username=B-lovedth&hide=issues,contribs&show_icons=true&count_private=true&locale=en&theme=jolly&hide_border=true&bg_color=0D1117" alt="B-lovedth">   
 <!-- <img src="https://github-readme-stats.vercel.app/api/pin/?username=B-lovedth&repo=github-readme-stats">https://github.com/B-lovedth/github-readme-stats -->
- <h3>You can buy me a Coffee if you want🙃🙃</h3><a href="https://www.buymeacoffee.com/Belovedth0"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"height="50" width="250"alt="B-lovedth"></a>   
+ <h3>You can buy me a Coffee if you want🙃🙃</h3><a href="https://www.buymeacoffee.com/Belovedth0"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png"height="50" width="250"alt="B-lovedth"></a>   
 <!---
 B-lovedth/B-lovedth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
