@@ -2,9 +2,9 @@
 
 - I'm a Student💻and I like Gadjets(¬‿¬)
 - I love TECHNOLOGY
-- I'm currently developing myself to be a software engineer 
-- I’m currently learning FrontEnd web Development using ReactJS
-- I’m looking forward to growing myself to the extent of developing Programs, Applications,Softwares that Would solve world class problems and also Collaborating with people of like mind
+- I'm currently A Student At ALX Africa's Sofware Engineering Program
+- I’m also currently learning FrontEnd web Development using ReactJS
+- I’m looking forward to becoming a World class Sofware Enginner building World class tools
 - Email: **greatsoma2019@gmail.com**
    
 <h2>You can Connect with me on:</h2>
@@ -26,8 +26,12 @@
    
 <br> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=B-lovedth&include_all_commits=true&count_private=true&column=3&margin-w=5&margin-h=5theme=react&hide_border=&bg_color=0D1117" alt="B-lovedth" /></a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=B-lovedth&show_icons=true&locale=en&layout=compact&theme=jolly&hide_border=true&bg_color=0D1117" alt="B-lovedth">   
-<img src="https://github-readme-stats.vercel.app/api?username=B-lovedth&hide=issues,contribs&show_icons=true&count_private=true&locale=en&theme=jolly&hide_border=true&bg_color=0D1117" alt="B-lovedth">   
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=B-lovedth&show_icons=true&locale=en&layout=compact&theme=jolly&hide_border=true&bg_color=0D1117" alt="B-lovedth">   
+<img src="https://github-readme-stats.vercel.app/api?username=B-lovedth&hide=issues,contribs&show_icons=true&count_private=true&locale=en&theme=jolly&hide_border=true&bg_color=0D1117" alt="B-lovedth">    -->
+   
+<img src="https://github.com/B-lovedth/Github-Stats-Copy/blob/master/generated/overview.svg#gh-dark-mode-only"> <img src="https://github.com/B-lovedth/Github-Stats-Copy/blob/master/generated/languages.svg#gh-dark-mode-only">
+
+
 <!-- <img src="https://github-readme-stats.vercel.app/api/pin/?username=B-lovedth&repo=github-readme-stats">https://github.com/B-lovedth/github-readme-stats -->
  <h3>You can buy me a Coffee if you want🙃🙃</h3><a href="https://www.buymeacoffee.com/Belovedth0"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png"height="50" width="250"alt="B-lovedth"></a>   
 <!---
