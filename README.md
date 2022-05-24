@@ -17,11 +17,11 @@
 <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"><a/>
 <a href="reactjs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" alt="javascript" height="40"/><a/>
-   
+<a href="getbootstrap.com" target="blank"><img src="https://cdn.iconfinder.com/stored_data/400236/128/png?token=1653393436-Bt5pkR63IwVVmkt7jqkS1c6mIJpzYxlJCX3f4UsaoAA%3D" width="40" height="40"></a>
 <h2>I currently have at least,Basic knowledge of the following:</h2>
 <a href="python.org" ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"></a>  
 <a href="java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"></a>   
-<a href=""><img src="https://cdn-icons.flaticon.com/png/128/5111/premium/5111061.png?token=exp=1651431109~hmac=0086cd6693c4e1aeabaa25d627324065" alt="c" width="40" height="40"></a>
+<a href=""><img src="https://cdn3.iconfinder.com/data/icons/letters-and-numbers-1/32/letter_C_blue-128.png" alt="c" width="40" height="40"></a>
 <a href=""><img src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" alt="git" width="40" height="40"></a>
    
 <br> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=B-lovedth&include_all_commits=true&count_private=true&column=3&margin-w=5&margin-h=5theme=react&hide_border=&bg_color=0D1117" alt="B-lovedth" /></a>
