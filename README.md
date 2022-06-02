@@ -17,7 +17,7 @@
 <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"><a/>
 <a href="reactjs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" alt="javascript" height="40"/><a/>
-<a href="getbootstrap.com" target="blank"><img src="https://cdn.iconfinder.com/stored_data/400236/128/png?token=1653393436-Bt5pkR63IwVVmkt7jqkS1c6mIJpzYxlJCX3f4UsaoAA%3D" width="40" height="40"></a>
+<a href="getbootstrap.com" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-original-wordmark.svg" width="40" height="40"></a>
 <h2>I currently have at least,Basic knowledge of the following:</h2>
 <a href="python.org" ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"></a>  
 <a href="java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"></a>   
