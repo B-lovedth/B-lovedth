@@ -1,10 +1,11 @@
 <h1>👋 Hi there!, I’m Great</h1> 
 
 - I'm a Student💻and I like Gadjets(¬‿¬)
-- I love TECHNOLOGY
+- I a lover of technology
 - I'm currently A Student At ALX Africa's Sofware Engineering Program
 - I’m also currently learning FrontEnd web Development using ReactJS
 - I’m looking forward to becoming a World class Sofware Enginner building World class tools
+- I'm open to any learning opportunity 
 - Email: **greatsoma2019@gmail.com**
    
 <h2>You can Connect with me on:</h2>
