@@ -4,6 +4,7 @@
 - I a lover of technology
 - I'm currently A Student At ALX Africa's Sofware Engineering Program
 - I’m also currently learning FrontEnd web Development using ReactJS
+- i also just developed intrest in mobile app development so I just started learning kotlin
 - I’m looking forward to becoming a World class Sofware Enginner building World class tools
 - I'm open to any learning opportunity 
 - Email: **greatsoma2019@gmail.com**
