@@ -28,10 +28,10 @@
    
 <br> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=B-lovedth&include_all_commits=true&count_private=true&column=3&margin-w=5&margin-h=5theme=react&hide_border=&bg_color=0D1117" alt="B-lovedth" /></a>
 
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=B-lovedth&show_icons=true&locale=en&layout=compact&theme=jolly&hide_border=true&bg_color=0D1117" alt="B-lovedth">   
-<img src="https://github-readme-stats.vercel.app/api?username=B-lovedth&hide=issues,contribs&show_icons=true&count_private=true&locale=en&theme=jolly&hide_border=true&bg_color=0D1117" alt="B-lovedth">    -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=B-lovedth&langs_count=10&show_icons=true&locale=en&layout=compact&theme=jolly&hide_border=true&bg_color=0D1117" alt="B-lovedth">   
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=B-lovedth&hide=issues,contribs&show_icons=true&count_private=true&locale=en&theme=jolly&hide_border=true&bg_color=0D1117" alt="B-lovedth">    -->
    
-<img src="https://github.com/B-lovedth/Github-Stats-Copy/blob/master/generated/overview.svg#gh-dark-mode-only"> <img src="https://github.com/B-lovedth/Github-Stats-Copy/blob/master/generated/languages.svg#gh-dark-mode-only">
+<img src="https://github.com/B-lovedth/Github-Stats-Copy/blob/master/generated/overview.svg#gh-dark-mode-only"> <!--<img src="https://github.com/B-lovedth/Github-Stats-Copy/blob/master/generated/languages.svg#gh-dark-mode-only">-->
 
  <h3>You can buy me a Coffee if you want🙃🙃</h3><a href="https://www.buymeacoffee.com/Belovedth0"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png"height="50" width="250"alt="B-lovedth"></a>   
 <!---
