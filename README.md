@@ -30,8 +30,9 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=B-lovedth&langs_count=10&show_icons=true&locale=en&layout=compact&theme=jolly&hide_border=true&bg_color=0D1117" alt="B-lovedth">   
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=B-lovedth&hide=issues,contribs&show_icons=true&count_private=true&locale=en&theme=jolly&hide_border=true&bg_color=0D1117" alt="B-lovedth">    -->
-   
-<img src="https://github.com/B-lovedth/Github-Stats-Copy/blob/master/generated/overview.svg#gh-dark-mode-only"> <!--<img src="https://github.com/B-lovedth/Github-Stats-Copy/blob/master/generated/languages.svg#gh-dark-mode-only">-->
+  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=B-lovedth&theme=tokyonight_duo&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=DD2727&ring=8E0000)](https://git.io/streak-stats)   
+<!-- <img src="https://github.com/B-lovedth/Github-Stats-Copy/blob/master/generated/overview.svg#gh-dark-mode-only"><img src="https://github.com/B-lovedth/Github-Stats-Copy/blob/master/generated/languages.svg#gh-dark-mode-only">-->
 
  <h3>You can buy me a Coffee if you want🙃🙃</h3><a href="https://www.buymeacoffee.com/Belovedth0"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png"height="50" width="250"alt="B-lovedth"></a>   
 <!---
