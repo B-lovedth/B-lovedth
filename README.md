@@ -1,7 +1,7 @@
 <h1>👋 Hi there!, I’m Great</h1> 
 
 - I'm a Student💻and I like Gadjets(¬‿¬)
-- I a lover of technology
+- I'm a Tech enthusiast 
 - I'm currently A Student At ALX Africa's Sofware Engineering Program
 - I’m also currently learning FrontEnd web Development using ReactJS
 - i also recently just developed interest in mobile app development so I just started learning kotlin
