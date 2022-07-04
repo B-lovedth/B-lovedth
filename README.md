@@ -5,7 +5,7 @@
 - I'm currently A Student At ALX Africa's Sofware Engineering Program
 - I’m learning FrontEnd web Development using ReactJS
 - I’m looking forward to becoming a World class Sofware Enginner building World class tools
-- I'm open to any learning nad growth opportunity 
+- I'm open to any learning and growth opportunity 
 - Email: **greatsoma2019@gmail.com**
    
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=B-lovedth&theme=tokyonight_duo&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=DD2727&ring=8E0000)](https://git.io/streak-stats)   
