@@ -8,7 +8,7 @@
 - I'm open to any learning and growth opportunity 
 - Email: **greatsoma2019@gmail.com**
    
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=B-lovedth&theme=tokyonight_duo&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=DD2727&ring=8E0000)](https://git.io/streak-stats)   
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=B-lovedth&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=00000000&fire=DDDDDD&ring=D82121&sideNums=DDDDDD&currStreakLabel=FFFFFF&dates=FFFFFF&sideLabels=FF2D2D)](https://git.io/streak-stats)
    
 <h2>You can Connect with me on:</h2>
 <a href="https://twitter.com/B_lovedth"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" width="50" height="40" "></a>
