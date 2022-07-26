@@ -1,8 +1,8 @@
 <h1>👋 Hi there!, I’m Great</h1> 
 
-- I'm a Student💻and I like Gadjets(¬‿¬)
+- I'm a Student and I like Gadjets
 - I'm a Tech enthusiast 
-- I'm currently A Student At ALX Africa's Sofware Engineering Program
+- I'm currently A Student At ALX Africa's Sofware Engineering Program , skill crush frontend web developer program, and side hustle internship program 
 - I’m learning FrontEnd web Development using ReactJS
 - I’m looking forward to becoming a World class Sofware Enginner building World class tools
 - I'm open to any learning and growth opportunity 
