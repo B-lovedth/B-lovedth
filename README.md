@@ -1,21 +1,27 @@
-<h1>👋 Hi there!, I’m Great</h1> 
+<a href="https://git.io/streak-stats"><img style="width:100vw; " src="https://github-readme-streak-stats.herokuapp.com?user=B-lovedth&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=00000000&fire=DDDDDD&ring=D82121&sideNums=DDDDDD&currStreakLabel=FFFFFF&dates=FFFFFF&sideLabels=FF2D2D"/></a>
+<h1 style="text-align:center;">👋 Hi there!, I’m Great.</h1> 
 
-- I'm a Student and I like Gadjets
+- Web Developer(Stack loading...)
+- Computer Science Student.
+- Email: **greatsoma2019@gmail.com**
+
+<!-- - I'm a Student and I like Gadjets
 - I'm a Tech enthusiast 
 - I'm currently A Student At ALX Africa's Sofware Engineering Program , skill crush frontend web developer program, and side hustle internship program 
 - I’m learning FrontEnd web Development using ReactJS
 - I’m looking forward to becoming a World class Sofware Enginner building World class tools
 - I'm open to any learning and growth opportunity 
-- Email: **greatsoma2019@gmail.com**
+ -->
    
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=B-lovedth&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=00000000&fire=DDDDDD&ring=D82121&sideNums=DDDDDD&currStreakLabel=FFFFFF&dates=FFFFFF&sideLabels=FF2D2D)](https://git.io/streak-stats)
+  
    
-<h2>You can Connect with me on:</h2>
-<a href="https://twitter.com/B_lovedth"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" width="50" height="40" "></a>
-<a href="https://web.facebook.com/great.soma"><img src="https://cdn-icons-png.flaticon.com/512/124/124010.png" alt="facebook" width="50" height="50"></a>
-<a href="https://www.linkedin.com/in/great-solomon-656397237/"><img src="https://cdn-icons-png.flaticon.com/128/174/174857.png" alt="LinkedIn" width="50" height="50"></a>
-<a href="https://wa.me/+2348109882351"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968841.png" alt="Whatsapp" width="50" height="50"/></a>  
-<a href="https://www.buymeacoffee.com/Belovedth0"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png"height="50" width="250"alt="B-lovedth"></a>   
+   
+- <a href="https://twitter.com/B_lovedth"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" width="30" height="30"/></a>
+<a href="https://web.facebook.com/great.soma"><img src="https://cdn-icons-png.flaticon.com/512/124/124010.png" alt="facebook" width="30" height="30"/></a>
+<a href="https://www.linkedin.com/in/great-solomon-656397237/"><img src="https://cdn-icons-png.flaticon.com/128/174/174857.png" alt="LinkedIn" width="30" height="30"/></a>
+<a href="https://wa.me/+2348109882351"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968841.png" alt="Whatsapp" width="30" height="30"/></a>
+<a href="https://www.buymeacoffee.com/Belovedth0"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="30" width="120" alt="B-lovedth"/></a>   
+
 <!-- <h2>Languages and tools used</h2>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> 
 <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"><a/>
