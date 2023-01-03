@@ -1,7 +1,7 @@
 <!-- <a href="https://git.io/streak-stats"><img style="width:100vw; " src="https://github-readme-streak-stats.herokuapp.com?user=B-lovedth&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=00000000&fire=DDDDDD&ring=D82121&sideNums=DDDDDD&currStreakLabel=FFFFFF&dates=FFFFFF&sideLabels=FF2D2D"/></a> -->
 <h1 style="text-align:center;">👋 Hi there!, I’m Great.</h1> 
 
-- Web Developer(Stack loading...)
+- Web Developer
 - Computer Science Student.
 - Email: **greatsoma2019@gmail.com**
 
