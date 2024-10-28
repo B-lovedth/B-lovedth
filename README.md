@@ -1,7 +1,7 @@
 
 <h1 style="text-align:center;">👋 Hi there!, I’m Great.</h1> 
 
-- Web Developer
+- Web2 Developer, Web3 in progress
 - Computer Science Student.
 - Email: **greatsoma2019@gmail.com**
 
