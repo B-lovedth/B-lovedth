@@ -26,7 +26,7 @@
 <!-- <br> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=B-lovedth&include_all_commits=true&count_private=true&column=3&margin-w=5&margin-h=5theme=react&hide_border=&bg_color=0D1117" alt="B-lovedth" /></a>
  -->
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=B-lovedth&langs_count=10&show_icons=true&locale=en&layout=compact&theme=jolly&hide_border=true&bg_color=0D1117" alt="B-lovedth">    -->
-<img src="https://github-readme-stats.vercel.app/api?username=B-lovedth&hide=issues,contribs&show_icons=true&count_private=true&locale=en&theme=dark&hide_border=true&bg_color=0D1117" alt="B-lovedth">   
+
 <!-- <img  src="https://github-readme-streak-stats.herokuapp.com?user=B-lovedth&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=00000000&fire=DDDDDD&ring=D82121&sideNums=DDDDDD&currStreakLabel=FFFFFF&dates=FFFFFF&sideLabels=FF2D2D"/> -->
   
 <!-- <img src="https://github.com/B-lovedth/Github-Stats-Copy/blob/master/generated/overview.svg#gh-dark-mode-only"><img src="https://github.com/B-lovedth/Github-Stats-Copy/blob/master/generated/languages.svg#gh-dark-mode-only"> -->
